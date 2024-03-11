@@ -7,13 +7,15 @@
 <h1 align="center">Hi 👋, I'm joe</h1>
 <h3 align="center">A passionate frontend Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Large ERP system**
+- 🔭  I’m currently working on a **Large ERP (Enterprise Resource Planning) system**. This involves designing and implementing various modules to streamline business processes and enhance productivity.
 
 - 🌱 I’m currently learning **Next Js ,redux and More..**
 
 - 👨‍💻 some of my projects are available at [https://myportfolio-rdsg.onrender.com/](https://myportfolio-rdsg.onrender.com/)
 
 - 💬 Ask me about **React and Next Js**
+- 👯 I’m always open to collaborating on exciting projects that involve cutting-edge technologies and innovative solutions. If you have a project in mind where you think my skills could be valuable, feel free to reach out!
+- 🤝 While I'm confident in my abilities, I'm always eager to learn and grow. If you're an expert in a particular field related to frontend development or have insights to share, I'm all ears. Whether it's tips, advice, or mentorship, I'm grateful for any assistance that helps me improve.
 
 - 📫 How to reach me **yousefsalem0101@gmail.com**
 
